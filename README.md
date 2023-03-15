@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**Interests:** Artifactal Intelligence, Software Development
+
 **Main Languages:** English, C++
 
 **Secondary Languages:** Web, Python, C#, Java

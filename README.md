@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Interests:** Artifactal Intelligence, Software Development
+**Interests:** Artifactal Intelligence, Software Development, Moderation Tools
 
 **Main Languages:** English, C++
 

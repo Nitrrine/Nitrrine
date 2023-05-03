@@ -6,4 +6,4 @@
 
 **Secondary Languages:** Python, C#, Java
 
-![Nitrrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrrine&show_icons=true&theme=synthwave)
+![Nitrrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrrine&show_icons=true&theme=transparent)

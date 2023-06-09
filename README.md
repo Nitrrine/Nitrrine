@@ -1,6 +1,5 @@
-<div align="center">
-  
-### Hi there 👋
+
+## Hi there 👋
 
 **Interests:** Artifactal Intelligence, Software Development, Moderation Tools
 
@@ -10,5 +9,3 @@
 
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/languages.svg)
-  
-</p>

@@ -1,11 +1,9 @@
 
 ## Hi there 👋
 
-**Interests:** Artifactal Intelligence, Software Development, Moderation Tools
+**Main Languages:** English, C++, C#, Nuxt (Vue, JS, TS, SCSS)
 
-**Main Languages:** English, C++, Vue
-
-**Secondary Languages:** Python, C#, Java
+**Secondary Languages:** Python, Java
 
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/languages.svg)

@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-**Primary Languages:** C#, Nuxt (Vue, JS, SCSS)
+**Primary Languages:** C#, Python, JS
 
 **Secondary Languages:** C++
 

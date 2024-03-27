@@ -1,9 +1,8 @@
 
-## Hi there 👋
+## 👋 Hi there!
+**Primary Tools:** C#, dotNet.
 
-**Primary Languages:** C#, Python, JS
-
-**Secondary Languages:** C++
+**Secondary Tools:** C++, Python, JavaScript.
 
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Nitrrine/github-stats-transparent/output/generated/languages.svg)

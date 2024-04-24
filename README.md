@@ -1,6 +1,6 @@
 
 ## 👋 Hi there!
-**Primary Tools:** C#, dotNet.
+**Primary Tools:** Nuxt, C#, dotNet.
 
 **Secondary Tools:** C++, Python, JavaScript.
 

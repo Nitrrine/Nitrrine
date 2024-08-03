@@ -2,7 +2,7 @@
 
   ## 👋 Hello!
 
-  My name is Nitrrine, I'm a web developer from the Kazakhstan. Mostly I use **Python** for creating desktop apps and scripts. I use **Nuxt** and **Astro** for complex websites, **Vanilla (HTML, CSS, JS)** for simple one-pagers like blogs, etc.
+  I'm a web developer from the Kazakhstan. Mostly I use **C#** for creating desktop apps and scripts. I use **Nuxt** and **Astro** for complex websites, **Vanilla (HTML, CSS, JS)** for simple one-pagers like blogs, etc. Sometimes I also create games using **Unity**.
   
 
   **Primary Tools:**

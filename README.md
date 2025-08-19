@@ -2,7 +2,7 @@
   
   ## 👋 Hello!
 
-  I'm a hobby full-stack developer from the Kazakhstan.
+  I'm a hobby web developer and self-taught software engineer from the Kazakhstan.
 
   [![](https://skillicons.dev/icons?i=cs,cpp,astro,nuxt,vue,fastapi,python,lua)](https://skillicons.dev)
   
